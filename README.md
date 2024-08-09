@@ -3,7 +3,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcjerim97)](https://solved.ac/kcjerim97)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kcjerim97&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=kcjerim97&theme=dark"/>
+
 
 <!--
 **jerry-1211/jerry-1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
