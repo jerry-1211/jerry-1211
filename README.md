@@ -1,6 +1,6 @@
 ## 김제림 (Jerry-K)
 
-> **좋은 개발자로 성장하기 위해 끊임없이 노력하는 Backend 개발자입니다.**
+> **실력있는 개발자로 성장하기 위해 끊임없이 노력하는 개발자입니다.**
 
 <div align="center">
   <a href="https://jerry-k.site/">
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jerry-1211&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats">
 </div>
 
-## 🏆 Algorithm & Problem Solving
+## Algorithm
 <div align="center">  
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcjerim97" alt="Solved.ac Profile">
 </div>
