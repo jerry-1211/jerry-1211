@@ -12,10 +12,11 @@
 
 ## Programming Language
 <div align="center">
+    <img src="https://img.shields.io/badge/java-707396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-1479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white"> 
+
   
-  ![JAVA](https://img.shields.io/badge/JAVA-2FC08D.svg?logo=java&logoColor=white)
-  ![PYTHON](https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white) 
-  ![MYSQL](https://img.shields.io/badge/SQL-007ACC.svg?logo=MySQL&logoColor=white) 
   
 </div>
 
