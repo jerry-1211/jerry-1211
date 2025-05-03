@@ -1,4 +1,7 @@
-## 김제림 (Jerry-K)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=김제림(Jerry-K)&fontSize=40&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62" width="100%" />
+</p>
+
 
 > **실력있는 개발자로 성장하고싶습니다.**
 
