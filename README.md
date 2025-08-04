@@ -3,7 +3,7 @@
 </p>
 
 
-> **실력있는 개발자로 성장하고싶습니다.**
+> **문제가 발생했다는 것은 어디선가 문제가 발생했음을 의미합니다. 저는 그 문제를 JVM에서 JVM 외부의 네이티브 영역까지 모두 추적해서 문제를 찾을 수 있습니다. .**
 
 <div align="center">
   <a href="https://jerry-k.site/">
@@ -15,7 +15,7 @@
 ## Self-Studying
 - **JAVA**
 - **Spring Boot** 
-- **비동기 처리** 
+- **JVM** 
 
 ## Programming Language
 <div align="center">
