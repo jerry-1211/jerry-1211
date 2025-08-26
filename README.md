@@ -15,18 +15,6 @@
   </a>
 </div>
 
-## Project
-- **[콘서트 티켓팅 예약](https://github.com/jerry-1211/concert-ticketing)**
-
-  - [1. 대량의 메모리 누수 트러블 슈팅](https://github.com/jerry-1211/concert-ticketing/wiki/1.-%EB%8C%80%EB%9F%89%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98)
-  
-  - [2. 동시성 문제 (좌석 선점 & 결제 처리)](https://github.com/jerry-1211/concert-ticketing/wiki/2.-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-(%EC%A2%8C%EC%84%9D-%EC%84%A0%EC%A0%90--&--%EA%B2%B0%EC%A0%9C-%EC%B2%98%EB%A6%AC))
-  
-  - [3. VU 증가 시 RPS가 감소하는 부하 테스트 병목 현상](https://github.com/jerry-1211/concert-ticketing/wiki/3.-VU-%EC%A6%9D%EA%B0%80-%EC%8B%9C-RPS%EA%B0%80-%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81)
-  
-  - [4. CPU 부하 (DB 레플리케이션)](https://github.com/jerry-1211/concert-ticketing/wiki/4.-CPU-%EB%B6%80%ED%95%98-(DB-%EB%A0%88%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98))
- 
-
 
 ## Self-Studying
 - **JAVA**
